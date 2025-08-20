@@ -14,7 +14,7 @@ A beautiful Visual Studio Code color theme inspired by the vibrant hues of a sun
 5. Go to `Preferences: Color Theme` and select **Doems Sunset Theme**.
 
 ## Screenshots
-![Sunset Theme Screenshot](themes/doems_sunset_theme-color-theme.png)
+![Sunset Theme Screenshot](images/doems_sunset_theme-color-theme.png)
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the theme. Suggestions for color tweaks or additional language support are welcome!
