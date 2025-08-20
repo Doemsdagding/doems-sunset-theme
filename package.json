@@ -1,0 +1,21 @@
+{
+  "name": "doems-sunset-theme",
+  "displayName": "doems_sunset_theme",
+  "description": "a theme inspired by the sunset",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "doems_sunset_theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/doems_sunset_theme-color-theme.json"
+      }
+    ]
+  }
+}
